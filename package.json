@@ -1,0 +1,12 @@
+{
+  "name": "africastalking-typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["africastalking", "nodejs sdk"],
+  "author": "HassanBahati <mukisabahati@gmail.com>",
+  "license": "ISC"
+}
