@@ -6,4 +6,4 @@ const router = express.Router();
 router.route("/").get(fetchSMS);
 router.route("/").get(smsReceived);
 
-module.exports = router;
+export default router;
